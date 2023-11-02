@@ -1,9 +1,7 @@
-# View the February 15th, 2023 Information Session at: [https://video.byui.edu/media/t/1_7rlan6ck](https://video.byui.edu/media/t/1_7rlan6ck)
-
-# CIT 295 Practicum Purpose
-CIT 295 Practicum engages students in service-learning opportunities to bless other lives by
+# CIT 295 Practicum/ITM 295 Portfolio Service Project Purpose
+CIT 295 Practicum/ITM 295 Portfolio Service Project engages students in service-learning opportunities to bless other lives by
 using the skills and knowledge they gained through their course of study in the CIT program. It
-is designed to help students achieve the mission of BYU-Idaho – “develop disciples of Jesus
+is designed to help students achieve the mission of BYU-Idaho to – “develop disciples of Jesus
 Christ who are leaders in their homes, the Church, and their communities” ([University Mission
 Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 
