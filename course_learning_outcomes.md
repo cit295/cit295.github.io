@@ -17,7 +17,7 @@ community within an organization
 6. Gain institutional awareness and refine industry professionalism expectations
 
 ## Navigation
-1. [Course Learning Outcomes (CLOs)](https://cit295.github.io/course_learning_outcomes)
+1. Course Learning Outcomes (CLOs)
 2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
 3. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
 4. [Grading](https://cit295.github.io/grading)
