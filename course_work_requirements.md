@@ -88,12 +88,11 @@ of, what obstacles you faced, how you overcome them, and what you learned. Guide
 presentation will be given in the Canvas course.
 
 ## Navigation
-1. [What is the CIT 295 Practicum and How do I begin?](https://cit295.github.io)
-2. [Course Learning Outcomes (CLOs)](https://cit295.github.io/course_learning_outcomes)
-3. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
-4. **You are Here:** Course Work Requirements
-5. [Grading](https://cit295.github.io/grading)
-6. [Project Idea Examples](https://cit295.github.io/project_ideas)
-7. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
-8. [Project Report Examples](https://cit295.github.io/report_examples)
-9. [Service Opportunities](https://cit295.github.io/service_opportunities)
+1. [Course Learning Outcomes (CLOs)](https://cit295.github.io/course_learning_outcomes)
+2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
+3. **You are Here:** Course Work Requirements
+4. [Grading](https://cit295.github.io/grading)
+5. [Project Idea Examples](https://cit295.github.io/project_ideas)
+6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
+7. [Project Report Examples](https://cit295.github.io/report_examples)
+8. [Service Opportunities](https://cit295.github.io/service_opportunities)
