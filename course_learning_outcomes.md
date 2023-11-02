@@ -1,5 +1,3 @@
-# View the February 15th, 2023 Information Session at: [https://video.byui.edu/media/t/1_7rlan6ck](https://video.byui.edu/media/t/1_7rlan6ck)
-
 # CIT 295 Practicum/ITM 295 Portfolio Service Project Purpose
 CIT 295 Practicum/ITM 295 Portfolio Service Project engages students in service-learning opportunities to bless other lives by
 using the skills and knowledge they gained through their course of study in the CIT program. It
