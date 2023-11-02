@@ -12,12 +12,11 @@ Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 - [CIT 295 Final Report for Aspen Grove Family Camp and Conference Center](https://webmailbyui-my.sharepoint.com/:w:/g/personal/kwg6_byui_edu/EUR8O6CCogFJjR5y9P9NVFQBqaTSQncI0Y51TUap_MUILA?e=5VgSqz)
 
 ## Navigation
-1. [What is the CIT 295 Practicum and How do I begin?](https://cit295.github.io)
-2. [Course Learning Outcomes (CLOs)](https://cit295.github.io/learning_outcomes)
-3. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
-4. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
-5. [Grading](https://cit295.github.io/grading)
-6. [Project Idea Examples](https://cit295.github.io/project_ideas)
-7. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
-8. **You are Here:** Project Report Examples
-9. [Service Opportunities](https://cit295.github.io/service_opportunities)
+1. [Course Learning Outcomes (CLOs)](https://cit295.github.io/learning_outcomes)
+2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
+3. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
+4. [Grading](https://cit295.github.io/grading)
+5. [Project Idea Examples](https://cit295.github.io/project_ideas)
+6. [Proposal Examples](https://cit295.github.io/report_examples)
+7. **You are Here:** Project Report Examples
+8. [Service Opportunities](https://cit295.github.io/service_opportunities)
