@@ -16,12 +16,11 @@ The weight distribution of assignments is as follows:
 100% - Total
 
 ## Navigation
-1. [What is the CIT 295 Practicum and How do I begin?](https://cit295.github.io)
-2. [Course Learning Outcomes (CLOs)](https://cit295.github.io/learning_outcomes)
-3. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
-4. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
-5. **You Are Here:** Grading
-6. [Project Idea Examples](https://cit295.github.io/project_ideas)
-7. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
-8. [Project Report Examples](https://cit295.github.io/report_examples)
-9. [Service Opportunities](https://cit295.github.io/service_opportunities)
+1. [Course Learning Outcomes (CLOs)](https://cit295.github.io/learning_outcomes)
+2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
+3. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
+4. **You Are Here:** Grading
+5. [Project Idea Examples](https://cit295.github.io/project_ideas)
+6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
+7. [Project Report Examples](https://cit295.github.io/report_examples)
+8. [Service Opportunities](https://cit295.github.io/service_opportunities)
