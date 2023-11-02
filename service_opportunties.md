@@ -17,12 +17,11 @@ info@thelordshands.org and/or Brother Godfrey (CIT 295 Practicum Instructor) for
 - (Fall 2023) **Open Source Cemetery Web Application Development** 
 
 ## Navigation
-1. [What is the CIT 295 Practicum and How do I begin?](https://cit295.github.io)
-2. [Course Learning Outcomes (CLOs)](https://cit295.github.io)
-3. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
-4. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
-5. [Grading](https://cit295.github.io/grading)
-6. [Project Idea Examples](https://cit295.github.io/project_ideas)
-7. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
-8. [Project Report Examples](https://cit295.github.io/report_examples)
-9. **You are Here:** Service Opportunities
+1. [Course Learning Outcomes (CLOs)](https://cit295.github.io)
+2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
+3. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
+4. [Grading](https://cit295.github.io/grading)
+5. [Project Idea Examples](https://cit295.github.io/project_ideas)
+6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
+7. [Project Report Examples](https://cit295.github.io/report_examples)
+8. **You are Here:** Service Opportunitiesp
